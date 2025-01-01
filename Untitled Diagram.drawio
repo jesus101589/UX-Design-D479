@@ -192,22 +192,22 @@
           <mxGeometry x="46.25" y="670" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-22" value="Feature 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="250" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="260" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-23" value="Feature 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="285" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="310" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-24" value="Feature 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="320" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="370" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-25" value="Feature 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="360" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="425" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-26" value="Feature 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="400" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="490" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-27" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
-          <mxGeometry x="90" y="440" width="170" height="20" as="geometry" />
+          <mxGeometry x="100" y="550" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jcyUQOxYpNNV1roCOC1K-28" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="jcyUQOxYpNNV1roCOC1K-1">
           <mxGeometry x="70" y="720" width="46.2" height="40" as="geometry" />
